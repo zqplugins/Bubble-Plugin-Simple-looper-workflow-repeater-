@@ -1,0 +1,15 @@
+{
+    "categories": {
+        "0": "productivity",
+        "1": "technical",
+        "2": "data (things)"
+    },
+    "demo_page": "https://pdf-conjurer-testbed.bubbleapps.io/version-test/simple_looper",
+    "description": "This plugin has been recently acquired by Zeroqode - please bear with us while we review the code and make improvements/fixes where necessary.\n\nA simple mechanism to make workflow actions loop. \n\nTo receive special offers and important updates please visit: https://zeroqo.de/updates\n\n🔔 Get our 15 Top Plugins Bundle with 15 most popular plugins for only 20$/month.\nPlugins included in the Bundle:\n\n- Bubble Page to PDF converter\n- Stripe Marketplace Express\n- Air Calendar (Full Calendar 5.9.0)\n- AWS File uploader - Any size\n- Advanced Rich Text Editor\n- Mapbox Map\n- Phone Input Number with Formatting\n- Advanced Multi Uploader\n- Video Player\n- Dynamic Height & Width of Elements\n- Audio Recorder\n- Repeating Group to CSV\n- Print Pro\n- Advanced Audio Player\n- Easy File Downloader\n\nGet it here: https://zeroqode.com/bundle\n\nDEMO & DOCUMENTATION\nhttps://zeroqode.com/plugin/simple-looper-workflow-repeater-1712920027345x329137890061580500\n\nNEED HELP BUILDING A CUSTOM APPLICATION?\nhttps://zeroqode.com\n \nSUPERCHARGE YOUR APP WITH ZEROQODE PLUGINS\nhttps://zeroqode.com/plugins\n\nQUESTIONS OR NEED HELP?\nhttps://forum.zeroqode.com",
+    "image": "//s3.amazonaws.com/appforest_uf/f1618893076670x463749167203058240/circling-fish.png",
+    "license": "open_source",
+    "link": "https://zeroqode.com/plugins",
+    "name": "Simple looper (workflow repeater)",
+    "plugin_instructions": "You do not need a plugin to make loops (repeat workflows) in backend workflows. Search the forum for recursion in API workflows and backend workflows so you see how it is done.\n \nThat said, this plugin works with workflows that run in the page, in other words, in the browser (client side).",
+    "sa_node_version": 18
+}

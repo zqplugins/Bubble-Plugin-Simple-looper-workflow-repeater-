@@ -1,0 +1,33 @@
+{
+    "add_is_visible": false,
+    "category": "visual elements",
+    "default_dim": {
+        "height": 16,
+        "width": 16
+    },
+    "display": "Simple looper",
+    "events": {
+        "AAD": {
+            "caption": "Flow to be repeated",
+            "name": "repeated_flow"
+        },
+        "AAF": {
+            "caption": "Loop finished",
+            "name": "loop_finished"
+        }
+    },
+    "icon": "ion-loop",
+    "property_applications": {
+        "resizable": false
+    },
+    "states": {
+        "AAG": {
+            "caption": "Current iteration number",
+            "initialization_code": {
+                "fn": "function(properties, context) {\n\n\n\n}"
+            },
+            "name": "current_iteration_number",
+            "value": "number"
+        }
+    }
+}
